@@ -1,0 +1,38 @@
+.cabecalho{
+    background-color: #5cc42d;
+    color: #fff;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.cabecalho h1{
+    font-weight: 600;
+}
+
+.corpo {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.corpo .container{
+    display: flex;
+    flex-direction: column;
+}
+
+.corpo h3{
+    margin-bottom: 5px;
+}
+
+.corpo li{
+    margin-bottom: 15px;
+}
+
+.corpo a{
+    text-decoration: underline;
+}

@@ -9,7 +9,6 @@
 
 a{      /*seletor das tags ancoras*/
     text-decoration: none; /*decoração do texto*/
-    color: #fff; /*linguagem hexadecimal, da para escrever o nome da cor tambem*/
 }
 
 ul{
